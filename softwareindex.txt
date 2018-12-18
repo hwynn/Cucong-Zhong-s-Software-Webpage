@@ -1,0 +1,64 @@
+HMM_GRASPx
+	SupplementaryData
+		<a href="software/HMM-GRASPx/SupplementaryData/Benchmark.zip"  target="_blank">text</a><br>			Benchmark.zip
+		<a href="software/HMM-GRASPx/SupplementaryData/README.txt"  target="_blank">text</a><br>			README.txt
+		<a href="software/HMM-GRASPx/SupplementaryData/OralSearchResults.tgz"  target="_blank">text</a><br>			OralSearchResults.tgz
+		<a href="software/HMM-GRASPx/SupplementaryData/Saliva.faa.tgz"  target="_blank">text</a><br>			Saliva.faa.tgz
+		<a href="software/HMM-GRASPx/SupplementaryData/OralGroundTruth.tgz"  target="_blank">text</a><br>			OralGroundTruth.tgz
+		<a href="software/HMM-GRASPx/SupplementaryData/RESFAMResults.tgz"  target="_blank">text</a><br>			RESFAMResults.tgz
+		<a href="software/HMM-GRASPx/SupplementaryData/SimMarineGroundTruth.tgz"  target="_blank">text</a><br>			SimMarineGroundTruth.tgz
+		<a href="software/HMM-GRASPx/SupplementaryData/OralAbundanceCorrelation.tgz"  target="_blank">text</a><br>			OralAbundanceCorrelation.tgz
+		<a href="software/HMM-GRASPx/SupplementaryData/OralDEResults.tgz"  target="_blank">text</a><br>			OralDEResults.tgz
+		<a href="software/HMM-GRASPx/SupplementaryData/OralTargetedAssembly.tgz"  target="_blank">text</a><br>			OralTargetedAssembly.tgz
+		<a href="software/HMM-GRASPx/SupplementaryData/SalivaAssembledContigs.tgz"  target="_blank">SalivaAssembledContigs.tgz</a><br>			SalivaAssembledContigs.tgz
+	HighResFigure
+		<a href="software/HMM-GRASPx/SupplementaryData/HighResFigure/Figure2.pdf"  target="_blank">text</a><br>
+	<a href="software/HMM-GRASPx/HMMGRASPx-release_v0.0.3_x86-64.tar.gz"  target="_blank">text</a><br>
+	<a href="software/HMM-GRASPx/HMMGRASPx-release_v0.0.2_x86-64.tar.gz"  target="_blank">text</a><br>
+	<a href="software/HMM-GRASPx/HMMGRASPx-release_v0.0.1_x86-64.tar.gz"  target="_blank">text</a><br>
+	<a href="software/HMM-GRASPx/README"  target="_blank">text</a><br>
+
+
+GRASPx
+	<a href="software/GRASPx/graspx-0.0.1-x86_64-deb.tar.gz"  target="_blank">text</a><br>
+	<a href="software/GRASPx/GRASPx_src.tgz"  target="_blank">text</a><br>
+	<a href="software/GRASPx/README"  target="_blank">text</a><br>
+
+
+
+RNAMotifScanX
+	<a href="software/RNAMotifScanX/RNAMotifScanX-release_v0.0.5_x86-64_rhel.tar.gz"  target="_blank">text</a><br>
+	<a href="software/RNAMotifScanX/PDB_prebuild.tgz"  target="_blank">text</a><br>
+
+GRASP
+	<a href="software/GRASP/grasp-0.0.4-x86_64-deb.tar.gz"  target="_blank">grasp-0.0.4-x86_64-deb.tar.gz</a><br>
+
+MutualFold
+	<a href="software/MutualFold/MutualFold.tar.gz"  target="_blank">MutualFold.tar.gz</a><br>
+
+CLCL
+	<a href="software/CLCL/CLCL_ver1.0.tar.gz"  target="_blank">CLCL_ver1.0.tar.gz</a><br>
+	<a href="software/CLCL/Companion_RfamRawClustering.pdf"  target="_blank">Companion_RfamRawClustering.pdf</a><br>
+	<a href="software/CLCL/FlyAtlas_Ttest.xlsx"  target="_blank">FlyAtlas_Ttest</a><br>
+	<a href="software/CLCL/Additional_File_1.pdf"  target="_blank">Additional_File_1</a><br>
+	<a href="software/CLCL/Additional_File_2.xlsx"  target="_blank">Additional_File_2</a><br>
+	<a href="software/CLCL/Additional_File_3.xlsx"  target="_blank">Additional_File_3</a><br>
+
+
+RNAMotifScan
+	<a href="software/RNAMotifScan/RNAMotifScanX-release_v0.0.5_x86-64_rhel.tar.gz"  target="_blank">RNAMotifScanX-release_v0.0.5_x86-64_rhel.tar.gz</a><br>
+	<a href="software/RNAMotifScan/PDB_prebuild.tgz"  target="_blank">PDB_prebuild.tgz</a><br>
+
+
+/C:/Users/H/RealDocs/school stuff/KU/2018.2 summer/BioInfoWebDesign/public_html/public_html/softare/softwareindex.txt
+C:\Users\H\RealDocs\school stuff\KU\2018.2 summer\BioInfoWebDesign\public_html\public_html\software\softwareindex
+
+
+
+
+
+
+
+
+
+
